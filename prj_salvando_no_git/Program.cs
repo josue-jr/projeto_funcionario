@@ -9,6 +9,10 @@ namespace prj_salvando_no_git
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Aula dia 17/08");
+
+
+            Console.WriteLine("preparando para subir no github");
+            
         }
     }
 }
